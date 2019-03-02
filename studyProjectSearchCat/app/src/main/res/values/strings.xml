@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">studyProjectSearchCat</string>
+    <string name="btnNextWindow">Кто украл?</string>
+    <string name="txtThief">Воришка это </string>
+    <string name="crow">Ворона</string>
+    <string name="dog">Сраный пёсик</string>
+    <string name="cat">Кот Васька</string>
+</resources>
